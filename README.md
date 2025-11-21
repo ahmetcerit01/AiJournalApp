@@ -120,9 +120,18 @@ Ekran görüntüleri ve kısa tanıtım videosu teslim klasörüne eklenecektir.
 
 
 ---
+## Ekran Görüntüleri
+
+![Giriş ve analiz ekranı](./demo/app-ss1.png)
+![Analiz sonucu ekranı](./demo/app-ss2.png)
+![Geçmiş listesi ekranı](./demo/app-ss3.png)
+![Detay görünümü](./demo/app-ss4.png)
+
 ## Demo Video
 
-https://github.com/ahmetcerit01/AiJournalApp/blob/main/demo/application.mov
+Uygulamanın kısa ekran kaydı aşağıdaki bağlantıda yer almaktadır:
+
+https://github.com/ahmetcerit01/AiJournalApp/raw/main/demo/application.mp4
 
 
 Bu proje, temel bir duygu analizi uygulamasının mobilde nasıl kurulabileceğini göstermek amacıyla hazırlanmıştır.
